@@ -4,7 +4,7 @@ ProfileMe.dev helps developers create an amazing GitHub profile in minutes.
 
 ## Demo
 
-A live version of this project can be found at [https://www.profileme.dev](https://readm-generator-for-github-profile.netlify.app).
+A live version of this project https://readm-generator-for-github-profile.netlify.app.
 
 ## Features
 
